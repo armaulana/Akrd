@@ -1,14 +1,14 @@
 //-- Kelompok manajemen rumah sakit
 
-TKRS
+1.TKRS
 * Tata kelola rumah sakit
-KPS
+2.KPS
 * Kualifikasi dan pendidikan staf
-MFK
+3.MFK
 * Manajemen fasilitas dan keselamatan
-PMKP
+4.PMKP
 * Peningkatan mutu dan keselamatan pasien
-MRMIK
+5.MRMIK
 * Manajemen rekamedis dan informasi kesehatan
 PPI
 * Pencegahan dan pengedalian infeksi
@@ -20,11 +20,11 @@ AKP
 * Akses dan kontinuitas pelayanan
 HPK
 * Hak pasien dan keluarga
-PP
+3. PP
 * Pengkajian pasien
-PAP
+4. PAP
 * Pelayanan dan asuhan pasien
-PAB
+5. PAB
 * Pelayanan dan anestesi dan bedah
 PKPO
 * Pelayanan kefarmasian dan penggunaan obat
