@@ -1,0 +1,38 @@
+//-- Kelompok manajemen rumah sakit
+
+TKRS
+* Tata kelola rumah sakit
+KPS
+* Kualifikasi dan pendidikan staf
+MFK
+* Manajemen fasilitas dan keselamatan
+PMKP
+* Peningkatan mutu dan keselamatan pasien
+MRMIK
+* Manajemen rekamedis dan informasi kesehatan
+PPI
+* Pencegahan dan pengedalian infeksi
+PPK
+* Pendidikan dan pelayanan kesehatan
+
+//-- Kelompok pelayanan berfokus pada pasien
+AKP
+* Akses dan kontinuitas pelayanan
+HPK
+* Hak pasien dan keluarga
+PP
+* Pengkajian pasien
+PAP
+* Pelayanan dan asuhan pasien
+PAB
+* Pelayanan dan anestesi dan bedah
+PKPO
+* Pelayanan kefarmasian dan penggunaan obat
+KE
+* Komunikasi dan edukasi
+
+//-- Kelompok sasaran keselamatan pasien
+SKP
+* Kelompok sasaran keselamatan pasien
+PROGNAS
+* Kelompok program nasional
