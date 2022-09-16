@@ -26,7 +26,7 @@ HPK
 * Pelayanan dan asuhan pasien
 5. PAB
 * Pelayanan dan anestesi dan bedah
-PKPO
+6. PKPO
 * Pelayanan kefarmasian dan penggunaan obat
 KE
 * Komunikasi dan edukasi
